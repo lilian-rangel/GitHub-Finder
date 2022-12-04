@@ -10,11 +10,21 @@
     <title>GitHub Finder</title>
 </head>
 <body>
-    <nav class="navbar navbar-dark bg-warning">
+    <nav class="navbar navbar-dark bg-warning mb-3">
         <div class="container">
             <a href="#" class="navbar-brand">GitHub Finder</a>
         </div>
     </nav>
+    <div class="container">
+        <div class="card card-body">
+            <h1>Pesquisar Usuários do GitHub</h1>
+            <p class="lead">
+                Digite um nome para encontar usuários e repositórios
+            </p>
+            <input id="search" type="text" class="form-control" required>
+        </div>
+        <div id="profile"></div>
+    </div>
     
     <script src="./assets/script.js"></script>
 </body>
