@@ -3,8 +3,8 @@
     const search = document.getElementById("search");
     const profile = document.getElementById("profile");
     const url = "https://api.github.com/users";
-    const client_id = "af605b816f514c724eac";
-    const client_secret = "354ceb8f1e67e41339a0d0717464b149a12e90f6";
+    const client_id = "";
+    const client_secret = "";
     const count = 7;
     const sort = "created: asc";
 
