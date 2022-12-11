@@ -1,5 +1,3 @@
-# GitHub-Finder
-
 
 <h1 align="center">Projeto: GitHub Finder</h1>
 <hr>
